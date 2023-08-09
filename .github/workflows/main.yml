@@ -1,0 +1,17 @@
+name: Docusaurus Deploy
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: redkubes/docusaurus-deploy-action@v1.2
+        with:
+          source-folder: sbr_docs
+          git-user: ${{ github.actor }}
+          git-password: ${{ secrets.GITHUB_TOKEN }}
+          deployment-branch: deployment # change this to your deployment branch
