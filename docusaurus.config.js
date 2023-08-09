@@ -14,7 +14,7 @@ const config = {
   url: 'https://montekkundan.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/sbr_docs/index.html/',
+  baseUrl: '/sbr_docs/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks : 'warn',
 
