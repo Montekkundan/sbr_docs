@@ -13,5 +13,5 @@ jobs:
         with:
           git-user: ${{ github.actor }}
           git-password: ${{ secrets.GITHUB_TOKEN }}
-          deployment-branch: deployment
+          deployment-branch: deployment # branch
 
