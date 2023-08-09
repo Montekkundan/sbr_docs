@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksbr_docs=self.webpackChunksbr_docs||[]).push([[251],{2390:s=>{s.exports=JSON.parse('{"permalink":"/sbr_docs/index.html/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
