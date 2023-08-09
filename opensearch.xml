@@ -4,8 +4,8 @@
   <ShortName>My Site</ShortName>
   <Description>Search My Site</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://your-docusaurus-test-site.com/sbr_docs/index.html/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://your-docusaurus-test-site.com/sbr_docs/index.html/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://your-docusaurus-test-site.com/sbr_docs/index.html/opensearch.xml" />
-  <moz:SearchForm>https://your-docusaurus-test-site.com/sbr_docs/index.html/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://montekkundan.github.io/sbr_docs/index.html/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://montekkundan.github.io/sbr_docs/index.html/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://montekkundan.github.io/sbr_docs/index.html/opensearch.xml" />
+  <moz:SearchForm>https://montekkundan.github.io/sbr_docs/index.html/</moz:SearchForm>
 </OpenSearchDescription>
