@@ -13,6 +13,6 @@ jobs:
         with:
           source-folder: .
           git-user: ${{ github.actor }}
-          git-password: ${{ secrets.GITHUB_TOKEN }}
+          git-password: ${{ secrets.DOCUSAURUS_TOKEN  }}
           deployment-branch: deployment # branch
 
